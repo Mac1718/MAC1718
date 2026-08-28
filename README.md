@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06141F,35:083344,65:0E7490,100:22D3EE&height=280&section=header&text=MAHANT%20A%20S&fontSize=70&fontColor=ECFEFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+production+backend+services+in+Java+%26+Spring+Boot;Full+Stack+Engineer+%7C+React+%2B+PostgreSQL%2FMySQL;Exploring+RAG%2C+pgvector+%26+AI-powered+applications" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Building+production+backend+services+in+Java+%26+Spring+Boot;Full+Stack+Engineer+%7C+React+%2B+PostgreSQL%2FMySQL;Exploring+RAG%2C+pgvector+%26+AI-powered+applications"
+    alt="Typing SVG"
+  />
 </a>
 
 <br/>
